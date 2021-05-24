@@ -1,0 +1,18 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: lightgray;
+}
+
+#gallery {
+  background-color: lightgray;
+}
+
+footer {
+  background-color: rgb(163, 157, 157);
+  color: white;
+  text-align: center;
+  padding-bottom: 4px;
+}
+section {
+  padding-top: 5rem;
+}
